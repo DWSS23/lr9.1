@@ -28,5 +28,8 @@ float y = 2;
 
 }
 
+int func3(int x)
+{
 
+}
 
